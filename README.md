@@ -1,14 +1,4 @@
-# svelte base app
-
-Started from   
-https://svelte.dev/examples#hello-world
-
-05/21/2019 8:17 AM  
-Added lighthouse suggestions:  
-01 - html tag: lang="en-US"  
-02 - meta description tag  
-![alt text](./src/assets/lighthouseScores/2019_0521_01.png "Lighthouse score")
-
+# svelte base PWA app
 
 ```bash
 npm install
@@ -49,3 +39,21 @@ Then, from within your project folder:
 npm run build
 surge public
 ```
+## creation steps
+
+Started from   
+https://svelte.dev/examples#hello-world
+
+05/21/2019 8:17 AM  
+Added lighthouse suggestions:  
+01 - html tag: lang="en-US"  
+02 - meta description tag  
+![alt text](./src/assets/lighthouseScores/2019_0521_01.png "Lighthouse score")  
+
+05/21/2019 11:54 AM  
+Made it a PWA  
+PWA Checklist:  
+https://developers.google.com/web/progressive-web-apps/checklist  
+How To Video:  
+https://www.youtube.com/watch?v=dXuvT4oollQ  
+![alt text](./src/assets/lighthouseScores/2019_0521_02.png "Lighthouse score")  
