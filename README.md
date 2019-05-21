@@ -57,3 +57,6 @@ https://developers.google.com/web/progressive-web-apps/checklist
 How To Video:  
 https://www.youtube.com/watch?v=dXuvT4oollQ  
 ![alt text](./src/assets/lighthouseScores/2019_0521_02.png "Lighthouse score")  
+
+Running version here  
+https://sveltebasepwa.glitch.me/
