@@ -88,7 +88,7 @@
 
 <h3>ToDo List</h3>
 <ol>
-    <li>Move menu to it's own svelte file - pass 3 arrays</li>
+    <li>Move menu to it's own svelte file?? - pass 3 arrays</li>
     <li>Include a nice font?</li>
     <li>Fix all ofline service worker errors</li>
     <li>Remove service worker console.log statements</li>

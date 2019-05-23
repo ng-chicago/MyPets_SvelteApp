@@ -7,7 +7,7 @@ const resourcesToPrecache = [
     '/bundle.css',
     '/bundle.js',
     '/global.css',
-    '/favicon.png',
+    '/favicon.ico',
     '/manifest.json'
 ];
 
