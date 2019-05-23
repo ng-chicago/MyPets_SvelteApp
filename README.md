@@ -16,6 +16,9 @@
 ### Set up the project with the needed libraries
     npm install
 
+### Start running localhost
+    npm run dev
+
 
 Running version here  
 https://sveltebasepwa.glitch.me/
